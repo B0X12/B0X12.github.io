@@ -1,5 +1,5 @@
 ---
-title: "Hi all! I'm OOOOOOğŸ‘‹ğŸ»"
+title: "¿ì´çÅÁÅÁ °³¹ß ºí·Î±×"
 permalink: /about/
 layout: single
 comments: false
